@@ -1,2 +1,2 @@
 # AI
-template
+It`s a template repository.
