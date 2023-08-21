@@ -25,3 +25,5 @@ for_paper_classification -> Topline
 Bert -> Bert
 
 task2.ipynb 为 Topline.ipynb 与 Bert.ipynb 合并后的笔记
+
+想看历史的可以看 history.ipynb
